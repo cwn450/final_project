@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Karla&family=Katibeh&display=swap');
+
+body{
+  
+    background-color: #fff4f4;
+}
+h1{
+    color:#b78aff;
+    font-family: abel;
+    font-size: 50px;
+}
+
+h4{
+    color: #ffc792;
+    font-family: karla;
+    font-size: 20px;
+}
+h3{
+    color:#ff89c4;
+    font-family: abel;
+
+}
+
+h5 {
+    font-family: abel;
+    font-size: 20px;
+    color: #000000;
+}
+label{
+    color:#b78aff;
+    font-family: karla;
+    font-size: 18px;
+}
+
+
+
+.copy_right_footer{
+    position: fixed;
+    color: #e4aa73;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    font-family: karla;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+ #start {
+    background:white;
+    background: white;
+    border: none;
+   border-style: solid;
+    border-color: #b78aff;
+    color: #b78aff;
+    border-width: 2px;
+    margin-top: 10px;
+    padding: 6px;
+    font-size: 23px;
+    font-family: karla;
+    width: 7%;
+    height: 7%;
+  
+}
+#start:hover{
+    transform: scale(1.0);
+    transition: .5s;
+  }
+
+ 
+  img {
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(79, 159, 246, 0.2);
+width: 30%;
+}
+
+img:hover{
+    border-radius: 20px;
+    transition: .3s;
+}
+
